@@ -5,7 +5,7 @@
 -------------------------------------------
 
 <!-- TODO: replace figs/method.png with your method figure -->
-![method](figure_method.pdf)
+![method](figure_method.png)
 
 ## 📰 News
 - **[2026.06.12]** *EffiCell-Seg* has been accepted by MICCAI 2026 !
